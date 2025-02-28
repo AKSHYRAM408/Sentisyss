@@ -1,4 +1,5 @@
-requests==2.32.3
-streamlit==1.42.0
-selenium==4.29.0
-webdriver-manager==4.0.2
+streamlit==1.31.1
+selenium==4.19.0
+webdriver-manager==4.0.1
+requests==2.31.0
+python-dotenv==1.0.1
